@@ -15,11 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GrandeSort.cpp">
+    <ClCompile Include="ProxyServer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="ApproximateNumber.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="标头.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
