@@ -116,7 +116,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ProxyServer.cpp" />
+    <ClCompile Include="ReverseSequenceOutput.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="标头.h" />
