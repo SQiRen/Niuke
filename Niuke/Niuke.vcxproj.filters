@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ReverseSequenceOutput.cpp">
+    <ClCompile Include="PhoneKeyboard.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

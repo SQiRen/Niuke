@@ -116,7 +116,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="ReverseSequenceOutput.cpp" />
+    <ClCompile Include="PhoneKeyboard.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="标头.h" />
